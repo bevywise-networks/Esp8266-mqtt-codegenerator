@@ -222,7 +222,7 @@ public class CodeGenForESP8266 {
 		code.append("\nconst int sleepTimeS = "+timeInterval+";");
 		code.append("\n");
 
-		code.append("\nStatic JsonBuffer<200> jsonBuffer;");
+		code.append("\nStaticJsonBuffer<200> jsonBuffer;");
 		code.append("\nJsonObject& root =jsonBuffer.createObject();");
 
 		code.append("\n void setup()");
@@ -258,7 +258,7 @@ public class CodeGenForESP8266 {
 
 			code.append("root[\""+client_id_param);
 			code.append("\"]");
-			code.append("=(String)"+client_id);
+			code.append("=(String)CLIENT_ID");
 			code.append(";");
 			code.append("\n");
 		}

@@ -43,11 +43,10 @@ The java API document will provide the necessary API for the auto generation  av
 
 The below packages should be added to the  Arduino->Libraries/ Folder
 
-
-pubsubclient Library - https://github.com/knolleary/pubsubclient 
-ArduinoJson Library -  https://github.com/bblanchon/ArduinoJson 
-WiFiManager Library -   Go to https://github.com/tzapu/WiFiManager 
-NPClient Library -  https://github.com/arduino-libraries/NTPClient
+1.pubsubclient Library - https://github.com/knolleary/pubsubclient
+2.ArduinoJson Library -  https://github.com/bblanchon/ArduinoJson 
+3.WiFiManager Library -   Go to https://github.com/tzapu/WiFiManager 
+4.NPClient Library -  https://github.com/arduino-libraries/NTPClient
 
 
 ## How to Manual

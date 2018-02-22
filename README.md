@@ -1,6 +1,6 @@
 # Esp8266-mqtt-codegenerator
 
-## Introduction:
+## Introduction
 
 This is a java based code generated that can be used to generate code for flashing into the ESP8266 on a mass scale or for a single device. This code generation is only for the MQTT based data collection from the edge device. 
 
@@ -64,5 +64,5 @@ NPClient Library -  https://github.com/arduino-libraries/NTPClient
 10. You may need to customise the code to read the data from the GPIO and use the necessary logic to convert the data. 
 
 
-##Support 
+## Support 
 If you have any questions you can connect with us via support

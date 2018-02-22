@@ -42,10 +42,10 @@ The java API document will provide the necessary API for the auto generation  av
 ## Dependencies 
 The below packages should be added to the  Arduino->Libraries/ Folder.
 
-1.pubsubclient Library - https://github.com/knolleary/pubsubclient
-2.ArduinoJson Library -  https://github.com/bblanchon/ArduinoJson 
-3.WiFiManager Library - https://github.com/tzapu/WiFiManager 
-4.NPClient Library -  https://github.com/arduino-libraries/NTPClient
+1.[pubsubclient Library](https://github.com/knolleary/pubsubclient)
+2.[ArduinoJson Library](https://github.com/bblanchon/ArduinoJson)
+3.[WiFiManager Library](https://github.com/tzapu/WiFiManager)
+4.[NPClient Library](https://github.com/arduino-libraries/NTPClient)
 
 ## How to Manual
 1. [Set up](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/installing-the-esp8266-arduino-addon) your Arduino IDE and the required tools for the ESP8266 

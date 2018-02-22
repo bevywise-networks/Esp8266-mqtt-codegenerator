@@ -57,7 +57,7 @@ The below packages should be added to the  Arduino->Libraries/ Folder.
 7. Copy paste the Instrumentation library in the Arduino / Libraries folder of Arduino. 
 8. Once the code is generated, Create a new file in Arduino and copy paste the content of ESPMain.cpp
 9. If you are going to send the time data from the agent, copy paste the time 
-10. You may need to customise the code to read the data from the GPIO and use the necessary logic to convert the data. 
+10. You may need to customise the code to read the data from the GPIO and use the necessary logic to convert the data. You can also add your own code for the algorithm in the CodeGenForESP8266.java and automate it completely.
 
 
 ## Support 
